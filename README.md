@@ -1,7 +1,7 @@
 # awesome-marathon-routes-gpx-collection
-跑步、马拉松路线 gpx（GPS eXchange）文件合集。Collection of running and marathon routes, GPX format files.
+跑步、马拉松路线 gpx（GPS eXchange）文件合集。A collection of running and marathon routes, GPX format files.
 
-
+欢迎提交PR，分享你跑过的精彩路线～
 
 ## 中国
 
