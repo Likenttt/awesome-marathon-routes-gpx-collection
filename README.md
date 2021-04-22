@@ -1,4 +1,9 @@
 # awesome-marathon-routes-gpx-collection
+<p align="center">
+  <img src="https://img.shields.io/badge/Cities-5-green"/>
+  <img src="https://img.shields.io/badge/Routes-14-red"/>
+</p>
+
 跑步、马拉松路线 gpx（GPS eXchange）文件合集。A collection of running and marathon routes, GPX format files.
 
 欢迎提交PR，分享你跑过的精彩路线～
